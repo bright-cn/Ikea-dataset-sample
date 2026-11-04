@@ -1,4 +1,4 @@
-# Ikea-dataset-samples
+# Ikea 数据集样本
 
 <h2>包含 1001 款 Ikea 产品的示例数据集</h2>
 
